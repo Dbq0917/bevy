@@ -1,0 +1,10 @@
+[package]
+name = "vector-assessment"
+version = "0.1.0"
+edition = "2021"
+description = "Offline measurement harness for the runtime vector-asset assessment. Not part of the Bevy workspace."
+
+[workspace]
+
+[dependencies]
+resvg = "0.45"

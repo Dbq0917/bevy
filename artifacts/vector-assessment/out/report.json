@@ -1,0 +1,14 @@
+{
+"svg_count":7,
+"total_bytes":92755,
+"total_parse_us":2699,
+"files":[
+  {"file":"branding/bevy_bird_dark.svg","bytes":11398,"parse_us":871,"fast_us":[136,243,429]}
+  {"file":"branding/bevy_bird_simpleicons.svg","bytes":2185,"parse_us":64,"fast_us":[118,39,45]}
+  {"file":"branding/bevy_logo_dark.svg","bytes":17310,"parse_us":249,"fast_us":[195,332,501]}
+  {"file":"branding/bevy_logo_light.svg","bytes":18800,"parse_us":412,"fast_us":[656,1153,1570]}
+  {"file":"branding/bevy_logo_light_dark_and_dimmed.svg","bytes":20039,"parse_us":523,"fast_us":[723,1373,2746]}
+  {"file":"branding/bevy_solari.svg","bytes":11544,"parse_us":372,"fast_us":[206,280,407]}
+  {"file":"branding/icon.svg","bytes":11479,"parse_us":208,"fast_us":[133,219,320]}
+]
+}
